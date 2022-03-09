@@ -1,9 +1,10 @@
 import React from "react";
+import Gallery from "../Gallery/Gallery";
 
 function Home() {
     return(
         <div>
-            <h1>Hello World!</h1>
+            <Gallery />
         </div>
     )
 }
